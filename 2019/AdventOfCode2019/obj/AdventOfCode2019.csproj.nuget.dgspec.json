@@ -1,0 +1,80 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\wmaethne\\Source\\Repos\\AdventOfCode2019\\AdventOfCode2019\\AdventOfCode2019.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\wmaethne\\Source\\Repos\\AdventOfCode2019\\AdventOfCode2019\\AdventOfCode2019.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\wmaethne\\Source\\Repos\\AdventOfCode2019\\AdventOfCode2019\\AdventOfCode2019.csproj",
+        "projectName": "AdventOfCode2019",
+        "projectPath": "C:\\Users\\wmaethne\\Source\\Repos\\AdventOfCode2019\\AdventOfCode2019\\AdventOfCode2019.csproj",
+        "packagesPath": "C:\\Users\\wmaethne\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\wmaethne\\Source\\Repos\\AdventOfCode2019\\AdventOfCode2019\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\wmaethne\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\wmaethne\\Source\\Repos\\AdventOfCode2019\\ClassLibrary1\\AdventOfCodeViewers.csproj": {
+                "projectPath": "C:\\Users\\wmaethne\\Source\\Repos\\AdventOfCode2019\\ClassLibrary1\\AdventOfCodeViewers.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\wmaethne\\Source\\Repos\\AdventOfCode2019\\ClassLibrary1\\AdventOfCodeViewers.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\wmaethne\\Source\\Repos\\AdventOfCode2019\\ClassLibrary1\\AdventOfCodeViewers.csproj",
+        "projectName": "AdventOfCodeViewers",
+        "projectPath": "C:\\Users\\wmaethne\\Source\\Repos\\AdventOfCode2019\\ClassLibrary1\\AdventOfCodeViewers.csproj"
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    }
+  }
+}

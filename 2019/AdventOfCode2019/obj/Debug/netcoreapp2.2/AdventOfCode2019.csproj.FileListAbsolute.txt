@@ -1,0 +1,16 @@
+C:\Users\wmaethne\Source\Repos\AdventOfCode2019\AdventOfCode2019\bin\Debug\netcoreapp2.2\AdventOfCode2019.deps.json
+C:\Users\wmaethne\Source\Repos\AdventOfCode2019\AdventOfCode2019\bin\Debug\netcoreapp2.2\AdventOfCode2019.runtimeconfig.json
+C:\Users\wmaethne\Source\Repos\AdventOfCode2019\AdventOfCode2019\bin\Debug\netcoreapp2.2\AdventOfCode2019.runtimeconfig.dev.json
+C:\Users\wmaethne\Source\Repos\AdventOfCode2019\AdventOfCode2019\bin\Debug\netcoreapp2.2\AdventOfCode2019.dll
+C:\Users\wmaethne\Source\Repos\AdventOfCode2019\AdventOfCode2019\bin\Debug\netcoreapp2.2\AdventOfCode2019.pdb
+C:\Users\wmaethne\Source\Repos\AdventOfCode2019\AdventOfCode2019\obj\Debug\netcoreapp2.2\AdventOfCode2019.csprojAssemblyReference.cache
+C:\Users\wmaethne\Source\Repos\AdventOfCode2019\AdventOfCode2019\obj\Debug\netcoreapp2.2\AdventOfCode2019.csproj.CoreCompileInputs.cache
+C:\Users\wmaethne\Source\Repos\AdventOfCode2019\AdventOfCode2019\obj\Debug\netcoreapp2.2\AdventOfCode2019.AssemblyInfoInputs.cache
+C:\Users\wmaethne\Source\Repos\AdventOfCode2019\AdventOfCode2019\obj\Debug\netcoreapp2.2\AdventOfCode2019.AssemblyInfo.cs
+C:\Users\wmaethne\Source\Repos\AdventOfCode2019\AdventOfCode2019\obj\Debug\netcoreapp2.2\AdventOfCode2019.dll
+C:\Users\wmaethne\Source\Repos\AdventOfCode2019\AdventOfCode2019\obj\Debug\netcoreapp2.2\AdventOfCode2019.pdb
+C:\Users\wmaethne\Source\Repos\AdventOfCode2019\AdventOfCode2019\bin\Debug\netcoreapp2.2\AdventOfCodeViewers.dll
+C:\Users\wmaethne\Source\Repos\AdventOfCode2019\AdventOfCode2019\bin\Debug\netcoreapp2.2\AdventOfCodeViewers.pdb
+C:\Users\wmaethne\Source\Repos\AdventOfCode2019\AdventOfCode2019\obj\Debug\netcoreapp2.2\AdventOfCode2019.csproj.CopyComplete
+C:\Users\wmaethne\Source\Repos\AdventOfCode2019\AdventOfCode2019\bin\Debug\netcoreapp2.2\Algorithms4DataStructures.dll
+C:\Users\wmaethne\Source\Repos\AdventOfCode2019\AdventOfCode2019\bin\Debug\netcoreapp2.2\Algorithms4DataStructures.pdb

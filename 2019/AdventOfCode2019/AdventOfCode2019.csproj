@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <LangVersion>7.1</LangVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ClassLibrary1\AdventOfCodeViewers.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Algorithms4DataStructures">
+      <HintPath>..\..\Algorithms4DataStructures\Algorithms4DataStructures\bin\Release\netcoreapp2.2\Algorithms4DataStructures.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <HintPath>System</HintPath>
+    </Reference>
+    <Reference Include="System.Data">
+      <HintPath>System.Data</HintPath>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <HintPath>System.Drawing</HintPath>
+    </Reference>
+    <Reference Include="System.Xml">
+      <HintPath>System.Xml</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

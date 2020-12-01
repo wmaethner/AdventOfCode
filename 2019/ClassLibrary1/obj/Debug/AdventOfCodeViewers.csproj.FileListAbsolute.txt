@@ -1,0 +1,8 @@
+C:\Users\wmaethne\Source\Repos\AdventOfCode2019\ClassLibrary1\bin\Debug\AdventOfCodeViewers.dll
+C:\Users\wmaethne\Source\Repos\AdventOfCode2019\ClassLibrary1\bin\Debug\AdventOfCodeViewers.pdb
+C:\Users\wmaethne\Source\Repos\AdventOfCode2019\ClassLibrary1\obj\Debug\AdventOfCodeViewers.csprojAssemblyReference.cache
+C:\Users\wmaethne\Source\Repos\AdventOfCode2019\ClassLibrary1\obj\Debug\AdventOfCodeViewers.GridViewer.resources
+C:\Users\wmaethne\Source\Repos\AdventOfCode2019\ClassLibrary1\obj\Debug\AdventOfCodeViewers.csproj.GenerateResource.cache
+C:\Users\wmaethne\Source\Repos\AdventOfCode2019\ClassLibrary1\obj\Debug\AdventOfCodeViewers.csproj.CoreCompileInputs.cache
+C:\Users\wmaethne\Source\Repos\AdventOfCode2019\ClassLibrary1\obj\Debug\AdventOfCodeViewers.dll
+C:\Users\wmaethne\Source\Repos\AdventOfCode2019\ClassLibrary1\obj\Debug\AdventOfCodeViewers.pdb

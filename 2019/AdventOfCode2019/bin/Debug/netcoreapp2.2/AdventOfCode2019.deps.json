@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "AdventOfCode2019/1.0.0": {
+        "dependencies": {
+          "AdventOfCodeViewers": "1.0.0",
+          "Algorithms4DataStructures": "1.0.0.0"
+        },
+        "runtime": {
+          "AdventOfCode2019.dll": {}
+        }
+      },
+      "AdventOfCodeViewers/1.0.0": {
+        "runtime": {
+          "AdventOfCodeViewers.dll": {}
+        }
+      },
+      "Algorithms4DataStructures/1.0.0.0": {
+        "runtime": {
+          "Algorithms4DataStructures.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AdventOfCode2019/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AdventOfCodeViewers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Algorithms4DataStructures/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
