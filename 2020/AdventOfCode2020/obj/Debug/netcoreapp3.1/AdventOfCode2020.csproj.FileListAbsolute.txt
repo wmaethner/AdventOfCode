@@ -10,3 +10,6 @@
 /Users/WillMaethner/Documents/GitHub/AdventOfCode/2020/AdventOfCode2020/obj/Debug/netcoreapp3.1/AdventOfCode2020.dll
 /Users/WillMaethner/Documents/GitHub/AdventOfCode/2020/AdventOfCode2020/obj/Debug/netcoreapp3.1/AdventOfCode2020.pdb
 /Users/WillMaethner/Documents/GitHub/AdventOfCode/2020/AdventOfCode2020/obj/Debug/netcoreapp3.1/AdventOfCode2020.genruntimeconfig.cache
+/Users/WillMaethner/Documents/GitHub/AdventOfCode/2020/AdventOfCode2020/bin/Debug/netcoreapp3.1/Validators.dll
+/Users/WillMaethner/Documents/GitHub/AdventOfCode/2020/AdventOfCode2020/bin/Debug/netcoreapp3.1/Validators.pdb
+/Users/WillMaethner/Documents/GitHub/AdventOfCode/2020/AdventOfCode2020/obj/Debug/netcoreapp3.1/AdventOfCode2020.csproj.CopyComplete

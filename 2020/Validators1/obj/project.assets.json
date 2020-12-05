@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {
-      "Validators/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "compile": {
-          "bin/placeholder/Validators.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Validators.dll": {}
-        }
-      }
-    }
+    ".NETCoreApp,Version=v3.1": {}
   },
-  "libraries": {
-    "Validators/1.0.0": {
-      "type": "project",
-      "path": "../Validators1/Validators.csproj",
-      "msbuildProject": "../Validators1/Validators.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": [
-      "Validators >= 1.0.0"
-    ]
+    ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
     "/Users/WillMaethner/.nuget/packages/": {},
@@ -33,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/WillMaethner/Documents/GitHub/AdventOfCode/2020/AdventOfCode2020/AdventOfCode2020.csproj",
-      "projectName": "AdventOfCode2020",
-      "projectPath": "/Users/WillMaethner/Documents/GitHub/AdventOfCode/2020/AdventOfCode2020/AdventOfCode2020.csproj",
+      "projectUniqueName": "/Users/WillMaethner/Documents/GitHub/AdventOfCode/2020/Validators1/Validators.csproj",
+      "projectName": "Validators",
+      "projectPath": "/Users/WillMaethner/Documents/GitHub/AdventOfCode/2020/Validators1/Validators.csproj",
       "packagesPath": "/Users/WillMaethner/.nuget/packages/",
-      "outputPath": "/Users/WillMaethner/Documents/GitHub/AdventOfCode/2020/AdventOfCode2020/obj/",
+      "outputPath": "/Users/WillMaethner/Documents/GitHub/AdventOfCode/2020/Validators1/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -54,11 +35,7 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {
-            "/Users/WillMaethner/Documents/GitHub/AdventOfCode/2020/Validators1/Validators.csproj": {
-              "projectPath": "/Users/WillMaethner/Documents/GitHub/AdventOfCode/2020/Validators1/Validators.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

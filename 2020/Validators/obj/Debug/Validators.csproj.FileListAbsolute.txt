@@ -1,0 +1,6 @@
+/Users/WillMaethner/Documents/GitHub/AdventOfCode/2020/Validators/bin/Debug/Validators.dll
+/Users/WillMaethner/Documents/GitHub/AdventOfCode/2020/Validators/bin/Debug/Validators.pdb
+/Users/WillMaethner/Documents/GitHub/AdventOfCode/2020/Validators/obj/Debug/Validators.csprojAssemblyReference.cache
+/Users/WillMaethner/Documents/GitHub/AdventOfCode/2020/Validators/obj/Debug/Validators.csproj.CoreCompileInputs.cache
+/Users/WillMaethner/Documents/GitHub/AdventOfCode/2020/Validators/obj/Debug/Validators.dll
+/Users/WillMaethner/Documents/GitHub/AdventOfCode/2020/Validators/obj/Debug/Validators.pdb
