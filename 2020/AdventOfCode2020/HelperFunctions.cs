@@ -86,5 +86,10 @@ namespace AdventOfCode2020
         {
             return Enumerable.Range(0, str.Length / chunkSize).Select(i => str.Substring(i * chunkSize, chunkSize));
         }
+
+        public static bool WithinRange<T>(T[][] grid, int row, int col)
+        {
+            return (row >= 0 && row < grid.Length) && (col >= 0 && col < grid[row].Length);
+        }
     }
 }

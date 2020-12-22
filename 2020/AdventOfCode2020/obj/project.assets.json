@@ -2,6 +2,16 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v3.1": {
+      "DataStructures/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/DataStructures.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DataStructures.dll": {}
+        }
+      },
       "Validators/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -15,6 +25,11 @@
     }
   },
   "libraries": {
+    "DataStructures/1.0.0": {
+      "type": "project",
+      "path": "../DataStructures/DataStructures.csproj",
+      "msbuildProject": "../DataStructures/DataStructures.csproj"
+    },
     "Validators/1.0.0": {
       "type": "project",
       "path": "../Validators1/Validators.csproj",
@@ -23,6 +38,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "DataStructures >= 1.0.0",
       "Validators >= 1.0.0"
     ]
   },
@@ -55,6 +71,9 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
+            "/Users/WillMaethner/Documents/GitHub/AdventOfCode/2020/DataStructures/DataStructures.csproj": {
+              "projectPath": "/Users/WillMaethner/Documents/GitHub/AdventOfCode/2020/DataStructures/DataStructures.csproj"
+            },
             "/Users/WillMaethner/Documents/GitHub/AdventOfCode/2020/Validators1/Validators.csproj": {
               "projectPath": "/Users/WillMaethner/Documents/GitHub/AdventOfCode/2020/Validators1/Validators.csproj"
             }

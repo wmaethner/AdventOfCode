@@ -1,7 +1,6 @@
 /Users/WillMaethner/Documents/GitHub/AdventOfCode/2020/Validators1/bin/Debug/netcoreapp3.1/Validators.deps.json
 /Users/WillMaethner/Documents/GitHub/AdventOfCode/2020/Validators1/bin/Debug/netcoreapp3.1/Validators.dll
 /Users/WillMaethner/Documents/GitHub/AdventOfCode/2020/Validators1/bin/Debug/netcoreapp3.1/Validators.pdb
-/Users/WillMaethner/Documents/GitHub/AdventOfCode/2020/Validators1/obj/Debug/netcoreapp3.1/Validators.csprojAssemblyReference.cache
 /Users/WillMaethner/Documents/GitHub/AdventOfCode/2020/Validators1/obj/Debug/netcoreapp3.1/Validators.AssemblyInfoInputs.cache
 /Users/WillMaethner/Documents/GitHub/AdventOfCode/2020/Validators1/obj/Debug/netcoreapp3.1/Validators.AssemblyInfo.cs
 /Users/WillMaethner/Documents/GitHub/AdventOfCode/2020/Validators1/obj/Debug/netcoreapp3.1/Validators.csproj.CoreCompileInputs.cache

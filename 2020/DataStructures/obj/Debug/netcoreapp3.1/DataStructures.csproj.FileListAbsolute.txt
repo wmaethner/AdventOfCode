@@ -1,0 +1,8 @@
+/Users/WillMaethner/Documents/GitHub/AdventOfCode/2020/DataStructures/bin/Debug/netcoreapp3.1/DataStructures.deps.json
+/Users/WillMaethner/Documents/GitHub/AdventOfCode/2020/DataStructures/bin/Debug/netcoreapp3.1/DataStructures.dll
+/Users/WillMaethner/Documents/GitHub/AdventOfCode/2020/DataStructures/bin/Debug/netcoreapp3.1/DataStructures.pdb
+/Users/WillMaethner/Documents/GitHub/AdventOfCode/2020/DataStructures/obj/Debug/netcoreapp3.1/DataStructures.AssemblyInfoInputs.cache
+/Users/WillMaethner/Documents/GitHub/AdventOfCode/2020/DataStructures/obj/Debug/netcoreapp3.1/DataStructures.AssemblyInfo.cs
+/Users/WillMaethner/Documents/GitHub/AdventOfCode/2020/DataStructures/obj/Debug/netcoreapp3.1/DataStructures.csproj.CoreCompileInputs.cache
+/Users/WillMaethner/Documents/GitHub/AdventOfCode/2020/DataStructures/obj/Debug/netcoreapp3.1/DataStructures.dll
+/Users/WillMaethner/Documents/GitHub/AdventOfCode/2020/DataStructures/obj/Debug/netcoreapp3.1/DataStructures.pdb
